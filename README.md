@@ -19,9 +19,10 @@ ngrok: Exposes the local n8n instance for Telegram integration.
 PostgreSQL 17 (localhost): Manages user authentication and contact data.
 
 **Getting Started**
-ngrok: Expose n8n with ngrok http 5678 to generate a public URL which will be used as a webhook for telegram.
+1.ngrok: Expose n8n with ngrok http 5678 to generate a public URL which will be used as a webhook for telegram.
 
-n8n: Run via Docker with:
+2.n8n: Run via Docker with:
 
 docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n -e WEBHOOK_URL=&lt;https://{random-string}.ngrok-free.app&gt; docker.n8n.io/n8nio/n8n
-PostgreSQL 17: Install locally and setup the DB.
+
+3.PostgreSQL 17: Install locally and setup the DB.
