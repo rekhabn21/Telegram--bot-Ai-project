@@ -3,7 +3,7 @@
 **Author:** Rekha B N
 **Contact:** rekha.nag@outlook.com
 
-[Portfolio](https://pushpak-portfolio.web.app) | [LinkedIn](http://linkedin.com/in/pushpakruhil/) | [GitHub](http://github.com/ruhil-ds)
+
 
 # Table of Contents
 
