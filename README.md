@@ -9,7 +9,6 @@
 
 - [Project Overview](#TelegramBotwithn8nWorkflowforAI-DrivenA)
   - [Key Features & Value](#TelegramBotwithn8nWorkflowforAI-DrivenA)
-- [Video Demonstration](#TelegramBotwithn8nWorkflowforAI-DrivenA)
 - [Environment & Prerequisites](#TelegramBotwithn8nWorkflowforAI-DrivenA)
   - [Getting Started](#TelegramBotwithn8nWorkflowforAI-DrivenA)
 - [Parent Workflow](#TelegramBotwithn8nWorkflowforAI-DrivenA)
